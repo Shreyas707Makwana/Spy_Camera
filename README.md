@@ -1,7 +1,4 @@
 # Spy_Camera
-# Spy_Camera
-# Spy Camera
-
 ## Overview
 
 Spy Camera is a software project developed for Software Engneering Course. It serves as a motion detection system utilizing a camera feed for security purposes. The application is capable of detecting movements within its field of view and triggering actions based on predefined settings.

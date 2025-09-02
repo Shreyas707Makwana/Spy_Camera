@@ -13,7 +13,7 @@ Spy Camera is a software project which serves as a motion detection system utili
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/spy-camera.git`
+1. Clone the repository: `git clone https://github.com/Shreyas707Makwana/spy-camera.git`
 2. Navigate to the project directory: `cd spy-camera`
 3. Install dependencies: 
    - Flask: `pip install Flask`
